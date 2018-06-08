@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ The\ Card\ object\ will\ be\ implemented\ in\ the\ deckOfCards\ class\r\n\r\n\ @baltz_jay\ \r\n\ @2018\r\n
+comment1.params=i
+comment1.target=Card(int)
+comment2.params=q
+comment2.target=java.lang.String\ getSuit(int)
+comment3.params=r
+comment3.target=java.lang.String\ getFace(int)
+comment4.params=r
+comment4.target=int\ getValue(int)
+comment5.params=q
+comment5.target=java.lang.String\ getColor(int)
+comment6.params=face\ suit
+comment6.target=java.lang.String\ getName(java.lang.String,\ java.lang.String)
+numComments=7
